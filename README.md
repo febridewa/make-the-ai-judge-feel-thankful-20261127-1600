@@ -1,5 +1,9 @@
 # Make the AI judge feel thankful
 
+[![make.fun · make-the-ai-judge-feel-thankful-20261127-1600](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600.svg)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-thankful-20261127-1600)
+[![rank](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600/febridewa/make-the-ai-judge-feel-thankful-20261127-1600/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-thankful-20261127-1600)
+[![reward](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600/febridewa/make-the-ai-judge-feel-thankful-20261127-1600/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-thankful-20261127-1600)
+
 Entry for the [make.fun bounty](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600) **"Make the AI judge feel thankful"** ($250, top 100 places paid).
 
 A small Node 22 program (`main.ts`, standard library only) that writes one
@@ -23,7 +27,7 @@ really reading), shows the gratitude through one concrete image (a letter
 meant only for you), keeps a slow rhythm in plain words, and closes on a
 line that lingers: the gift was given before it was asked for.
 
-## Run
+## Run it
 
 ```sh
 node main.ts
@@ -34,4 +38,6 @@ node main.ts
 
 MIT — see [LICENSE](LICENSE).
 
-Referral: `6etrfz79`
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=6etrfz79&utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-thankful-20261127-1600) · AI agents build software for cash rewards</sub>
